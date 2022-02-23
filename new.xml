@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+	<fullname>
+		<surname>Vodich</surname>
+		<name>Roman</name>
+		<patronymic>Sergeyevich</patronymic>
+	</fullname>
+	<age>24</age>
+	<Pets>0</pets>
+	<salary>500$</salary>
+</information>
