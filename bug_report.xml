@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<structure>
+  <body>
+1. ID/name
+2. Description/summary
+3. Environment
+4. Console logs
+5. Source URL
+6. Visual proof
+7. Steps to reproduce
+8. Expected vs. actual results
+  </body>
+</structure>
